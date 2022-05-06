@@ -1,0 +1,15 @@
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\bin\Debug\netstandard2.0\Xamarin3.deps.json
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\bin\Debug\netstandard2.0\Xamarin3.dll
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\bin\Debug\netstandard2.0\Xamarin3.pdb
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\Xamarin3.csproj.AssemblyReference.cache
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\Xamarin3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\Xamarin3.AssemblyInfoInputs.cache
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\Xamarin3.AssemblyInfo.cs
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\Xamarin3.csproj.CoreCompileInputs.cache
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\Xamarin3.dll
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\refint\Xamarin3.dll
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\Xamarin3.pdb
+C:\Users\zunig\source\repos\Xamarin\Xamarin3\Xamarin3\obj\Debug\netstandard2.0\ref\Xamarin3.dll

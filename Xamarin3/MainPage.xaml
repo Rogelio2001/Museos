@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin3.MainPage">
+
+    <StackLayout BackgroundColor="AliceBlue">
+        <Frame BackgroundColor="#2196F3" >
+            <Label Text="Museos &#10; (Ciudad de México)" HorizontalTextAlignment="Center" TextColor="White" FontSize="Large"/>
+        </Frame>
+        <StackLayout Margin="15">
+            <ListView x:Name="lvgrupo" HasUnevenRows="True" 
+                  ItemTapped="lsvGrupo_ItemTapped" ItemSelected="lsvGrupo_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Frame  Margin="8" CornerRadius="10" Padding="10">
+                                <StackLayout Orientation="Horizontal">
+                                    <Image Source="{Binding Foto}" WidthRequest="60" HeightRequest="60"/>
+                                    <StackLayout Padding="15,0,0,0">
+                                        <Label Text="{Binding Nombre}" FontSize="Medium" FontAttributes="Bold" TextColor="Black"/>
+                                        <Label Text="{Binding Tipo}" FontSize="Small" TextColor="Black"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+        <Frame BackgroundColor="#C7EAFF" Margin="8" CornerRadius="10" Padding="10">
+            <Label x:Name="lbdescrip" Text="{Binding Descripcion}" FontSize="Medium" TextColor="#748C99"/>
+        </Frame>
+    </StackLayout>
+    
+
+</ContentPage>
